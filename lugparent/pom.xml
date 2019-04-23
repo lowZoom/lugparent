@@ -19,6 +19,9 @@
     <!-- https://mvnrepository.com/artifact/org.codehaus.groovy/groovy-all -->
     <luj.groovy.version.major>2.4</luj.groovy.version.major>
     <luj.groovy.version>${luj.groovy.version.major}.16</luj.groovy.version>
+
+    <!-- https://mvnrepository.com/artifact/org.spockframework/spock-core -->
+    <luj.spock.version>1.2-groovy-${luj.groovy.version.major}</luj.spock.version>
   </properties>
 
   <build>
